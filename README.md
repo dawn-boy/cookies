@@ -1,6 +1,3 @@
-# Cookies
-All my favourite highlights helping me everyday. Rebirth through fortune cookie!
-
 ## What is it?
 This program helps you to use your kindle highlights with the fortune tool in linux.
 
